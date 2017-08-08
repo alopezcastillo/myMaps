@@ -1,0 +1,12 @@
+/build/
+/bin/
+/com/
+.gradle/
+.nb-gradle/
+.nb-gradle-properties
+*.iml
+.idea/
+.settings/
+.project
+.classpath
+.vscode/
